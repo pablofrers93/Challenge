@@ -1,0 +1,8 @@
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\bin\Debug\Narrow-HallWays.exe.config
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\bin\Debug\Narrow-HallWays.exe
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\bin\Debug\Narrow-HallWays.pdb
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\obj\Debug\Narrow-HallWays.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\obj\Debug\Narrow-HallWays.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\obj\Debug\Narrow-HallWays.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\obj\Debug\Narrow-HallWays.exe
+C:\Users\pablo\OneDrive\Desktop\Challenge\Narrow-HallWays\Narrow-HallWays\obj\Debug\Narrow-HallWays.pdb
