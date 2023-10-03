@@ -10,7 +10,7 @@ namespace Narrow_HallWays
     {
         static void Main(string[] args)
         {
-            string personas = "<---><<<<";
+            string personas = "<---<--->----<";
 
             Console.WriteLine(CountSalutes(personas));
             Console.ReadLine();
